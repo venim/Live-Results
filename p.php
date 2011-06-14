@@ -34,7 +34,7 @@ echo '
 	<link rel="stylesheet" type="text/css" href="../results/general.css" />
 	<link rel="stylesheet" type="text/css" href="../results/links.css" />
 	<title>Live Results</title>
-	<script type="text/JavaScript" src="../jquery-1.3.js"></script>
+	<script type="text/JavaScript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script> 
 	<script type="text/JavaScript">
 		$(document).ready(function(){
 			$("select#goto").change(function(){
